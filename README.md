@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **React, Redux, Material UI**  <br>- 🌱 I’m currently learning **Web Design & UI/UX**  <br>- 💡 Interested in **UI Design, Frontend Development, E-commerce & Web Development**  <br>- 📫 How to reach me: [rajendran2741@gmail.com] | [https://www.linkedin.com/in/rajendran-p-67b796237] | [https://github.com/Rajendran27] | [https://rajendransportfolio.netlify.app/]  <br>
+- 🔭 I’m currently working on **React, Redux, Material UI**  <br>- 🌱 I’m currently learning **Web Design & UI/UX**  <br>- 💡 Interested in **UI Design, Frontend Development, E-commerce & Web Development**  
 
 
 ## 🌐 Socials:
